@@ -1,2 +1,2 @@
 # StrokePredictionML
-Predicting the stroke using ML.
+Predicting the stroke using Machine Learning.
